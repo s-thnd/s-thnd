@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @s-thnd
-- 👀 I’m interested in majoring in computer science
-- 🌱 I’m currently learning java (taking AP CS A at my school)
-
-
-<!---
-s-thnd/s-thnd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there, I'm Shyam Thandullu. I'm currently a high school junior taking AP Computer Science A. 
+I also participate in coding competitions and I'm always looking for the next coding concept to learn.
+At the moment I code exclusively in java but I am also interested in learning python down the line (maybe this summer? :D)

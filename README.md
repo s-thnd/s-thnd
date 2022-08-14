@@ -1,2 +1,3 @@
-Hi there, I'm Shyam Thandullu. I'm currently a high school junior taking AP Computer Science A. 
-I also participate in coding competitions and I'm always looking for the next coding concept to learn.
+Hello, my name is Shyam Thandullu, I am a high school student who is passionate about learning computer science. 
+I have participated in UTD Computer Science camps as well as various coding competitions. Feel free to contact me
+on instagram at @shyam.thandullu or through my discord- Stravinsky#6589
